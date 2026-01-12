@@ -13,12 +13,12 @@ This project is intended for educational and portfolio purposes, focusing on cla
 -Observe processor operation using on-board LEDs and switches
 
 ## Hardware & Tools
-# Hardware
+### Hardware
 - FPGA Board: Altera DE10
 - FPGA Device: Intel Cyclone
 - Clock: On-board oscillator
 - I/O: LEDs, switches, optional seven-segment displays
-# Software
+### Software
 - Intel Quartus Prime
 - ModelSim / QuestaSim
 - Verilog HDL
